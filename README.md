@@ -1,3 +1,3 @@
 # Omnifood Website Mockup
 
-URL: https://tonyngyn.github.io/omnifood/
+URL: https://newyentony.github.io/omnifood/ 
